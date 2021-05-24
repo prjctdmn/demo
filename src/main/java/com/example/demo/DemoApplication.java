@@ -15,5 +15,6 @@ public class DemoApplication {
     @PostConstruct
     public void printMessage() {
 		//System.out.println("Hi");
+	    System.out.println("this is conflict line 2");
     }
 }
